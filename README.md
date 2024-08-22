@@ -5,15 +5,21 @@ This project aims to predict which customers are likely to respond positively to
 
 **Dependencies**:
 Python 3.x
+
 TensorFlow
+
 Scikit-learn
+
 Pandas
+
 NumPy
 
 
 **Results**:
 The Logistic Regression model performed the best, with an accuracy of 88%.
+
 The Deep Learning Model using TensorFlow closely followed, with an accuracy of 87.7%.
+
 Other models, such as the Decision Tree Classifier and Gaussian Naive Bayes, also performed reasonably well, with accuracies of 83% and 72%, respectively.
 
 
